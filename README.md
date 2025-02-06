@@ -26,6 +26,10 @@ The dataset used in this project is the Healthcare Dataset obtained from [Kaggle
 - Dataset source: [Kaggle](https://www.kaggle.com/datasets/prasad22/healthcare-dataset).
 - Power BI for providing an excellent tool to visualize and analyze data.
 
+## Screenshots:
+![image](https://github.com/user-attachments/assets/47b3a216-1259-414d-81f0-13d25acf9af9)
+
+
 
 
 
