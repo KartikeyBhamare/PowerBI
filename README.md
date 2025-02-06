@@ -11,9 +11,7 @@ The dataset used in this project is the Healthcare Dataset obtained from [Kaggle
 - Healthcare Dataset from Kaggle
 
 ## Setup and Installation
-- Clone the Repository:
-  git clone <repository-url>
-  cd <repository-directory>
+- Clone the Repository
 - Install Power BI Desktop:
   Download Power BI Desktop from the official website: [PowerBI](https://www.microsoft.com/en-us/download/details.aspx?id=58494).
 - Open Power BI File:
